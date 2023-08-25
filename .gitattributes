@@ -1,3 +1,4 @@
 /Production/Dummy filter=lfs diff=lfs merge=lfs -text
 *.bak filter=lfs diff=lfs merge=lfs -text
 /UAT/Dummy filter=lfs diff=lfs merge=lfs -text
+*.sql filter=lfs diff=lfs merge=lfs -text
